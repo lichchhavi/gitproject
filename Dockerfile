@@ -1,2 +1,1 @@
 FROM openjdk
-WORKDIR /app
